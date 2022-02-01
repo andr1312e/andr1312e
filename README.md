@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+qt руководство:
+https://github.com/andr1312e/Qt-Advices
 
 **Я использую:**
 
