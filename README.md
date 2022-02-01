@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+**Я использую:**
+
+<code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/qtcreator.svg" width="24"/></code> </code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/git.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/gnu.svg" width="24"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/icons8-c++.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/Sql%20Server.svg" width="24"/></code> 
+<br>
+
 <!--
 **andr1312e/andr1312e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
